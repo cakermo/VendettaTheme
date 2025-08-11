@@ -277,7 +277,8 @@
    },
   
   "background": {
-      "alpha": 5,
+     "blur": 0.1,
+    "alpha": 5,
       "url": "https://i.imgur.com/9YUVmhe.jpeg"
   },
   "plus":{
@@ -479,3 +480,4 @@
 },
   "spec": 2
      }
+
