@@ -276,7 +276,10 @@
   "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
    },
   
-
+  "background": {
+      "alpha": 5,
+      "url": "https://i.imgur.com/9YUVmhe.jpeg"
+  },
   "plus":{
      "version":"0",
      "iconpack":"rosiecord-plumpy",
@@ -473,21 +476,6 @@
         "toast_image_saved": "#9ccfd8",
         "WrenchIcon": "#31748f"
 }
-
-"background": {
-        "blur": 0.2,
-        "url": "https://i.imgur.com/9YUVmhe.jpeg",
-        "alpha": 0.4
-    },
-    
 },
   "spec": 2
-}
-
-
-
-
-
-
-
-
+     }
