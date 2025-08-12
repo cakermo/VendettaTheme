@@ -325,8 +325,9 @@
  },
 
 "background": {
-    "alpha": 5,
-    "url": "https://github.com/VodkaXMartini/images/blob/main/Vision3.jpg?raw=true"
+   "blur": 0.1,
+  "alpha": 0.4
+    "url": "https://i.imgur.com/oBNZYTp.jpeg"
 },
 "plus":{
    "version":"0",
@@ -527,3 +528,4 @@
 },
 "spec": 2
 }
+
