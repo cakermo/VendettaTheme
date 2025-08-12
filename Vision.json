@@ -325,8 +325,8 @@
  },
 
 "background": {
-  "url": "https://i.imgur.com/oBNZYTp.jpeg"
-  "alpha": 5
+    "alpha": 5,
+    "url": "https://i.imgur.com/oBNZYTp.jpeg"
    
 },
 "plus":{
@@ -528,6 +528,7 @@
 },
 "spec": 2
 }
+
 
 
 
